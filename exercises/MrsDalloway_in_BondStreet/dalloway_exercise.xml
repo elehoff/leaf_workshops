@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader xml:lang="en">
       <fileDesc>
          <titleStmt>
@@ -151,7 +154,7 @@
                Lords, Ascot, Hurlingham—what was it? What a duck, she thought, looking at the
                frontispiece of some book of memoirs spread wide in the bow window, Sir Joshua
                perhaps or Romney; arch, bright, demure; the sort of girl—like her own Elizabeth—the
-               only real sort of girl. And there was that absurd book, Soapy
+               only <emph>real</emph> sort of girl. And there was that absurd book, Soapy
                Sponge, which Jim used to quote by the yard; and Shakespeare's Sonnets. She knew them
                by heart. Phil and she had argued all day about the Dark Lady, and Dick had said
                straight out at dinner that night that he had never heard of her. Really, she had
